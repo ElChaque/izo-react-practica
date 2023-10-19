@@ -1,0 +1,14 @@
+import React from 'react';
+import Title from './Title';
+import Body from './Body';
+
+function BlogPost({ title, body }) {
+  return (
+    <div>
+      <Title title={title} />
+      <Body body={body} />
+    </div>
+  );
+}
+
+export default BlogPost;

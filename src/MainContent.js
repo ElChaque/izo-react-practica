@@ -1,4 +1,3 @@
-
 import Practica1 from './practica_1/Practica1';
 import Practica2 from './practica_2/Practica2';
 import Practica3 from './practica_3/Practica3';
